@@ -1,0 +1,29 @@
+body {
+	margin: auto;
+}
+
+.header_menu
+{
+	width: 100%;
+	height: 100px;
+	background-color: #2b3f52;
+	position: fixed;
+	margin-bottom: 60px;
+}
+.header_menu h1 {
+	color: white;
+}
+.text {
+	
+	width: 300px;
+	
+}
+
+.content {
+	margin-top:  100px;
+	display: inline-block;
+}
+.mobile {
+	color: white;
+	display : none;
+}

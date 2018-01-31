@@ -1,6 +1,7 @@
-<html>
+﻿<html>
 
 <head>
+<meta charset="utf-8">
 <link rel="stylesheet" type="text/css" href="./Content/style/main.css" >
 <link rel="stylesheet" type="text/css" href="./Content/style/media.css" >
 </head>
@@ -9,7 +10,9 @@
 
 <div class="header_menu">
 <h1 class="desktop">Desktop </h1>
-<h1 class="mobile" >Mobile </h1>
+
+<img class="menu_image"  src="/Content/images/menu-icon.png"  width="50" height="50"> 
+</div>
 </div>
 
 <div class="content">
